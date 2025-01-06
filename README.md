@@ -1,2 +1,2 @@
 # Yolo-ModelTest
-Easy Yolo Model Test
+Easy Yolo Model Test on COLAB
